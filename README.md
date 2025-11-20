@@ -1,3 +1,1 @@
-# Gestiva
-# Neuvia
 # Neuvia
